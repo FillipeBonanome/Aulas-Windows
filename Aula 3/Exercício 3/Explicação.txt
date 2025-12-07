@@ -1,0 +1,3 @@
+1. Todas as pastas precisam ter os relatórios dos anos de 2022, 2023 e 2024 (em formato .txt)
+2. Financeiro também possui um documento do word chamado Contrato (em formato .docx)
+3. Marketing possui um documento de Power Point chamado Plano de Marketing (em formato .pptx)
