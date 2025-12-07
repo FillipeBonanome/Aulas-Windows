@@ -1,0 +1,16 @@
+LISTA DE COMPRAS - MERCADO DO ALUNO
+
+PRODUTO | PREÇO FINAL (R$)
+---------------------------------------
+Arroz (5kg) 			| 28,50
+Feijão (1kg) 			| 9,99
+Pão Francês (5 unidades) 		| 7,50
+Leite Integral (3 caixas) 		| 16,80
+Azeite de Oliva (1 unidade) 		| 32,75
+Queijo Mussarela (300g) 		| 18,30
+Sabonete (4 unidades) 		| 12,00
+Detergente (2 unidades)		| 6,40
+---------------------------------------
+TOTAL A PAGAR: 			| ?????
+
+Utilize a calculadora para descobrir o valor final!
